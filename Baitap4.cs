@@ -3,7 +3,7 @@ using System.Linq.Expressions;
 
 namespace Baitap4
 {
-    class Program
+    class Baitap4
     {
         static void Main(string[] args)
         {
